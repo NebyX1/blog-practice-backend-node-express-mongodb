@@ -1,0 +1,1 @@
+Para levantar el servidor de Node: npm start
